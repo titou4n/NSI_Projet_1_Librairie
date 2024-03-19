@@ -4,13 +4,13 @@
   Gestion du stock d'une librairie
   
   Plusieurs fonctions:
-    1-  Ajouter un livre
-    2-  Supprimer un livre
-    3-  Rechercher un livre
-    4-  Vendre un livre / Faire une commande
-    5-  Montant de livre vendue
-    6-  Pour visualiser le montant total du client
-    7-  Quitter
+    1.  Ajouter un livre
+    2.  Supprimer un livre
+    3.  Rechercher un livre
+    4.  Vendre un livre / Faire une commande
+    5.  Montant de livre vendue
+    6.  Pour visualiser le montant total du client
+    7.  Quitter
 
 ## Pour commencer
 
