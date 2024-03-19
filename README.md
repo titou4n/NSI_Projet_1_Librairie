@@ -37,8 +37,8 @@
 
 ## Auteurs
   Groupe DATA : 
-  -SIMON Titouan T4
-  -WU SEBASTIEN T4
+  - SIMON Titouan T4
+  - WU SEBASTIEN T4
 
 ## Schéma base de données
 
