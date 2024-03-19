@@ -42,5 +42,5 @@
 
 ## Schéma base de données
 
-  Schema rellationel : https://whimsical.com/schema-rellationel-R4NiM1j7XTgEaWKzowKvW
-  Schema entite association : https://whimsical.com/entite-association-WMSnfcUZE77bwUMh36Cyva
+  - Schema rellationel : https://whimsical.com/schema-rellationel-R4NiM1j7XTgEaWKzowKvW
+  - Schema entite association : https://whimsical.com/entite-association-WMSnfcUZE77bwUMh36Cyva
